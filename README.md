@@ -13,7 +13,6 @@ if count == 100:
 ## 运行步骤
 
 ``` bash
-# 文件所在命令行运行
-python spider_main.py
+IDE下运行spider_main (推荐使用pycharm)
 
 ```
