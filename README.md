@@ -4,12 +4,12 @@
 
 ## 说明
 
+<p>爬取的数据会存储于生成的output.html文件中，使用浏览器可查看数据</p>
 <p>修改spider_main.py文件count数值可以设置爬取数<p>
 ``` bash
 if count == 100:
     break
 ```
-<p>爬取的数据会存储于生成的output.html文件中，使用浏览器可查看数据</p>
 
 ## 运行步骤
 
