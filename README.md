@@ -3,13 +3,12 @@
 > python3.0 使用的模块：urllib、BeautifulSoup4、re
 
 ## 说明
-<p>
-修改spider_main.py文件count数值可以设置爬取数
+
+<p>修改spider_main.py文件count数值可以设置爬取数<p>
 ``` bash
 if count == 100:
     break
 ```
-</p>
 
 ## 运行步骤
 
